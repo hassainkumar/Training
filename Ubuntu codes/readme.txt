@@ -1,7 +1,3 @@
 This is the Ubuntu Folder
 
-
-
-
-
-It comtains the codes created using ubuntu
+It contains the codes created using ubuntu
