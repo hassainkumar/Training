@@ -1,0 +1,75 @@
+:wq
+
+1  git config --global user.name "Windows"
+    2  git config --global user.email "Windows@kill"
+    3  pwd
+    4  cd /
+    5  ls
+    6  cd ..
+    7  cd ..
+    8  pwd
+    9  cd /e
+   10  ls
+   11  mkdir Git\ Training
+   12  cd Git\ Training/
+   13  git init
+   14  git remote add TrainRepo https://github.com/hassainkumar/Training.git
+   15  git pull TrainRepo master
+   16  ls
+   17  mkdir Windows\ Code
+   18  cd Windows\ Code/
+   19  vi readme.txt
+   20  cd ..
+   21  git commit -m "Changes by Windows"
+   22  git add .
+   23  git commit -m "Changes by Windows"
+   24  git push -u TrainRepo master
+   25  git log
+   26  whoami
+   27  exit
+   28  who am i
+   29  whoami
+   30  status
+   31  log
+   32  log --
+   33  git log
+   34  exit
+   35  pwd
+   36  cd /e
+   37  ls
+   38  cd Git\ Training/
+   39  git log
+   40  git status
+   41  ls
+   42  ls -al
+   43  git commit
+   44  git status
+   45  vi readme.txt
+   46  date
+   47  exit
+   48  cd Git\ Training/
+   49  cd /e/Git\ Training/Windows\ Code/
+   50  ls
+   51  cd /c/Users/hassa/OneDrive/Documents/SQL\ Server\ Management\ Studio/
+   52  ls _al
+   53  ls -al
+   54  cp *.sql /e/Git\ Training/Windows\ Code/SQL\ old\ codes
+   55  cd /e/Git\ Training/Windows\ Code/
+   56  ls
+   57  cp /c/Users/hassa/OneDrive/Documents/SQL\ Server\ Management\ Studio/*.sql /e/Git\ Training//Windows\ Code/ mkdir SQL\ Old\ Codes
+   58  mkdir SQL\ Old\ Codes && cp /c/Users/hassa/OneDrive/Documents/SQL\ Server\ Management\ Studio/*.sql /e/Git\ Training/Windows\ Code/SQL\ Old\ Codes
+   59  ls
+   60  cd SQL\ Old\ Codes/
+   61  ls
+   62  ls -al
+   63  cd /e/Git\ Training/
+   64  git . add
+   65  git .add
+   66  git add
+   67  git add .
+   68  git commit -m "Added SQL files to Git database"
+   69  git status
+   70  git push -u TrainRepo master
+   71  git status
+   72  history
+   73  history >>Git\ Commands\ Used
