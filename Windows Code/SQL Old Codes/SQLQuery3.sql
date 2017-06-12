@@ -1,0 +1,1 @@
+Exec AdventureWorks2014.[dbo].[BusEnId1] @BuEnId1=10
